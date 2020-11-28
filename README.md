@@ -1,4 +1,5 @@
 # sound-freqs
 Sound frequency analysis, visualization and playback
 
-Sound recordings available at google drive: https://drive.google.com/drive/folders/1R81sxoWFbcGA2vR4pfk2hClhkhPyHv0F?usp=sharing
+## Setup instructions
+1. Download sound data to subfolder sound-recordings. Inside that folder there's a `README.md` file with path to google drive sample .caf recordings.
